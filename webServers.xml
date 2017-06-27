@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="25a447a4-3978-4168-91e6-974520ce6574" name="willmun" url="https://willmun.fr">
+        <fileTransfer host="ftp.cluster020.hosting.ovh.net" port="22" rootFolder="/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="074f78a9-1807-47ba-896a-fe02782474cc" name="willmun" url="https://willmun.fr">
+        <fileTransfer host="ftp.cluster020.hosting.ovh.net" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="66359642-dd7c-4ee0-a0d2-fbdaab539a49" name="willmun" url="https://willmun.fr">
+        <fileTransfer host="ftp.cluster020.hosting.ovh.net" port="22" rootFolder="/home/willmunfed" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
