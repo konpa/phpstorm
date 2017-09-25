@@ -1,12 +1,20 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Jump to Navigation Bar">
+        <Item>
+          <IdeaActionID>ShowNavBar</IdeaActionID>
+          <ShortCut>'Alt+Origine'</ShortCut>
+          <Description>Jump to Navigation Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>3</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
