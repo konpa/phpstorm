@@ -81,6 +81,30 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Redo Backspace">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+Z' or 'Alt+Maj+Retour arrière'</ShortCut>
+          <Description>Redo Backspace</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Rollback Change">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+Z' or 'Alt+Maj+Retour arrière'</ShortCut>
+          <Description>Redo Rollback Change</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Typing">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+Z' or 'Alt+Maj+Retour arrière'</ShortCut>
+          <Description>Redo Typing</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
